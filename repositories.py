@@ -1,8 +1,8 @@
 GROUP_REPOS = [
     [
         "group a",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "EasTops",
+        ["https://github.com/AntohaY/itu-minitwit"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
