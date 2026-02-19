@@ -73,8 +73,8 @@ GROUP_REPOS = [
         "group n",
         "Diversity",
         ["https://github.com/huncut47/diversity"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "http://168.119.126.80",
+        "http://168.119.126.80",
     ],
     [
         "group o",
